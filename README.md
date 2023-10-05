@@ -52,6 +52,7 @@ Collection of awesome [wagmi](https://github.com/wagmi-dev/wagmi)-related projec
 - [Hey](https://hey.xyz) — Decentralized, and permissionless social media app built with Lens Protocol 🌿 [GitHub](https://github.com/heyxyz/hey)
 - [midwit](https://midwit.vercel.app) — Experiment for combining narrative with smart contracts.
 - [moonbirds](https://www.moonbirds.xyz)
+- [Peanut Protocol](https://www.peanut.to) - Transfer abstraction protocol, send tokens via URL
 - [PoolTogether](https://pooltogether.com) — Crypto-powered savings protocol based on Premium Bonds. [GitHub](https://github.com/pooltogether/wallet-connection)
 - [Rollup ID](https://rollup.id.com/) - Identity management and automation for the private web. [Github](https://github.com/proofzero)
 - [SimpleHash](https://docs.simplehash.com/reference/overview) - API for getting NFT metadata, media, sales and collection info from multiple chains
